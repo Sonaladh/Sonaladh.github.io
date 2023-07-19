@@ -730,6 +730,17 @@ p {
   bottom: 20px;
 }
 
+/* sonal */
+#portfolio-box{
+  width: 100% ;
+}
+.resume-hover{
+  width: auto;
+}
+.resume-hover h2 :hover{
+color: #b8a07e;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
